@@ -1,0 +1,10 @@
+{
+  "name": "Start on Heroku: server.js",
+  "description": "A barebones server.js app using Express 4",
+  "repository": "https://github.com/YOGESH-C-GOWDA/intelligent-server",
+  "keywords": [
+    "node",
+    "express",
+    "heroku"
+  ]
+}
