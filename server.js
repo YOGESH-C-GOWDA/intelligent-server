@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const { emit } = require("nodemon");//  not needed ????
 const cors = require("cors");
 const knex = require("knex");
-const bcrypt = require("bcrypt");
+// const bcrypt = require("bcrypt");
 
 
 
